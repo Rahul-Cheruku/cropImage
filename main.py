@@ -1,9 +1,9 @@
 from PIL import Image
 
 
-# user input
-imgURL = "C:/Users/rahul/Desktop/Pravaig Acceleration/portfolio/happy tailor services.png"
-
+# user image path
+imgURL = "your/image/path/example.png"
+# user ratio
 ratio='2X3'.split('X')
 
 
